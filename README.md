@@ -1,1 +1,1 @@
-# sql_projects for job
+# sql_projects to get data analyst job
